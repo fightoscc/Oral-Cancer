@@ -362,7 +362,7 @@ document.addEventListener('click', (event) =>{
         event.preventDefault();
         console.log('detect_click\n');
         console.log(anchor.href);
-        fetch('https://2d0f-104-199-172-31.ngrok-free.app/track_url', {
+        fetch('https://065c-104-199-172-31.ngrok-free.app/track_url', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
@@ -383,3 +383,43 @@ document.addEventListener('click', (event) =>{
         });
     }
 });
+
+// async function translatePage() {
+//     const userLang = navigator.language || navigator.userLanguage; // Detect browser language
+//     const targetLang = userLang.split('-')[0]; // Get language code
+//     const elements = document.querySelectorAll('h1, h2, h3, p, a'); // Select elements to translate
+//     console.log(userLang)
+//     console.log(targetLang)
+//     for (let el of elements) {
+//         const originalText = el.textContent.trim(); // Trim to remove unnecessary spaces
+//         if (!originalText) continue; // Skip empty text
+
+//         try {
+//             const res = await fetch("https://065c-104-199-172-31.ngrok-free.app/translate", {
+//                 method: "POST",
+//                 headers: {
+//                     "Content-Type": "application/json"
+//                 },
+//                 mode: "cors", // Explicitly enable CORS
+//                 body: JSON.stringify({
+//                     q: originalText,
+//                     source: "auto",
+//                     target: targetLang
+//                 })
+//             });
+
+//             if (!res.ok) {
+//                 const errorDetails = await res.text();
+//                 console.error(`API Error (${res.status}): ${errorDetails}`);
+//                 continue;
+//             }
+
+//             const data = await res.json();
+//             el.textContent = data.translatedText || originalText; // Update text or keep original
+//         } catch (error) {
+//             console.error("Translation error:", error);
+//         }
+//     }
+// }
+
+// document.addEventListener("DOMContentLoaded", translatePage);
