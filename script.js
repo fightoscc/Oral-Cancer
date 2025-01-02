@@ -79,7 +79,7 @@ function createTagCloud(id, div) {
         });
     });
 
-    const filter = ['/SEO/i', '/*癌症*/', '/*治療*/', '/醫學/', '/醫藥/'];
+    const filter = [/SEO/i, /.*癌症.*/, /.*治療.*/, /.*醫學/, /醫藥/];
 
     // 準備數據
     const words = Object.keys(tagCounts)
