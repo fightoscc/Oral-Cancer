@@ -273,17 +273,45 @@
                     "醫療政策"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
+                ]
+            },
+            {
+                "titles": "一種對抗癌症的重大傷病治療：繁體中文介紹",
+                "author": "Cancerfree",
+                "no": 2461,
+                "date": "2024/10/31 00:24:00",
+                "tags": [
+                    "治療",
+                    "癌症",
+                    "繁體中文",
+                    "化學治療",
+                    "健康",
+                    "重大傷病",
+                    "病人護理"
+                ],
+                "website": [
                     "Brain tumor",
-                    "Oral Cancer"
+                    "Breast Cancer",
+                    "Lung Cancer",
+                    "Ovarian Cancer",
+                    "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
+                    "Colorectal Cancer",
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -360,17 +388,17 @@
                     "病患照護"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -389,17 +417,17 @@
                     "生存品質"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
@@ -421,17 +449,17 @@
                     "生物學"
                 ],
                 "website": [
-                    "Gastric Cancer",
-                    "Liver Cancer",
+                    "Brain tumor",
+                    "Breast Cancer",
                     "Lung Cancer",
                     "Ovarian Cancer",
-                    "Pancreatic Cancer",
-                    "Prostate Cancer",
-                    "Breast Cancer",
                     "Esophageal Cancer",
+                    "Pancreatic Cancer",
+                    "Oral Cancer",
+                    "Prostate Cancer",
                     "Colorectal Cancer",
-                    "Brain tumor",
-                    "Oral Cancer"
+                    "Liver Cancer",
+                    "Gastric Cancer"
                 ]
             },
             {
